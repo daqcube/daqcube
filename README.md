@@ -1,31 +1,157 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Andries!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+# Senior Software Engineer
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=daqcube&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+## Summary
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+- Driven and versatile Senior Software Engineer with 10 years’ experience in the IT industry.
+- Excellent experience in solution designing, developing, deploying, and automating web & mobile applications.
+- Expertise in Core Java, JavaEE, Springboot & SOAP & REST API design and development.
+- Expertise in Database Design, Creation, Query optimization using Postgres, MongoDB, DB2, MySQL, MSSQL, and Oracle 10g.
+- Extensive experience working in an agile environment with full participation in agile ceremonies.
+- Demonstrated solid mentoring, guiding, and leadership skills.
+- Excellent communication and interpersonal skills with the ability to work individually and collaboratively.
+- Passionate about learning new technologies, and seamlessly manage workload to meet deadlines.
 
-P.S. If you want to make a GitHub profile README like this, check out this [tutorial](https://youtu.be/DWFs6aqknqw?si=oX-In0gOUUZiqINh)! 😊
+## Education
+
+#### 2015: BTech in Information Technology | Vaal University of Technology
+
+#### 2015: Project Management Principles and Techniques (PMBOK) | Northwest University
+
+#### 2010: Matric National Senior Certificate | St. Marks Secondary School
+
+## Certifications
+
+### 2018: KMP1 - Kanban Systems Design | Lean Kanban University
+
+### 2016: ITIL Foundation Certification in IT Services Management | Torque IT
+
+## Technical skills
+
+### Java Technologies:
+
+Springboot, JavaEE, JDK (7 & 8), JPA, JSF 2.2, EJB 3.0, JSP, JMS, JavaMail, JDBC, JAX-WS, REST API, SOAP Web
+Service, <br>
+Morphia, Hibernate. ActiveMQ
+
+### Database technologies:
+
+Liquid base, Postgres, MongoDB, DB2, MySQL, MSSQL, and Oracle 10g.
+
+### Web Technologies:
+
+Angular, PrimeFaces, HTML, JavaScript, Typescript, Ajax, XML, XHTML, and CSS.  
+Web Application Servers:
+Tomcat, NodeJS, WebSphere Application Server (WAS 9), JBOSS/WildFly and Glassfish.
+
+### Version Control:
+
+Git & Subversion
+
+### Testing & automation:
+
+JUnit 4 & 5, JMeter, Mockito, and TestNG.
+
+### Build automation and CI:
+
+Maven, Jenkins, and Bamboo
+Operating System & Containerization:
+Linux (Ubuntu, CentOS 6), MacOS, Windows (7,8,10), Docker & Docker-compose.
+
+## Experience
+
+### BMW IT Hub South Africa
+
+#### Senior Software Engineer | November 2023 - Present
+
+### South Africa FNB South Africa (FNB Forex IT)
+
+#### Senior Java Developer | April 2021 - November 2023
+
+- Solution designed and developed 10+ mid-high level projects within the forex space. <br>
+- Designing, developing, dockerizing & deploying fully automated mobile app business product solutions. <br>
+- Integration with the banking core services using SOAP based web services & REST APIs.<br>
+- Participate actively in agile ceremonies (Sprint planning, Daily stand up, Sprint review, & Sprint retrospective)<br>
+- Performing code reviews & onboarding new developers.<br>
+- Planning and preparing production release & change management requirements.<br>
+- Lead developer in projects working alongside with dev consultants.<br>
+
+##### Key projects:
+
+Global Payments, Transfers & PayPal: enablement of global forex change products on online and mobile
+through <br>
+the FNB forex channel. Tech stack: JavaEE, Java 8, SOAP, REST Api, Docker, docker-compose, Liquidbase, Jenkins, JBOSS
+EAP 7, <br> Postgres, Maven, and Nexus
+
+### Standard Bank Group
+
+#### Developer (Digital Mobile & IBR) | February 2020 - April 2021
+
+- Designing, developing & architect web application solutions utilizing the MVC concepts and application layer
+  patterns (
+  Presentation, Service, and Persistence Layers)
+- Participate actively in the grooming session, story sizing, task prioritizing and sprint planning.
+- Assist/guide/lead other developers to improve delivery rate.
+- Share best practices across the development team and ensure quality code through code review process & usage of tools
+  such as SonarQube.
+- Develop fully automated deployment using Maven and Bamboo built pipeline.
+
+#### Key projects:
+
+Vehicle Asset Finance –a digital product solution available on Standard Bank’s website that integrates the bank and
+a <br>
+third-party via REST API to provide Vehicle Finance Application capabilities to the bank’s prospective customers. <br>
+<b>Tech stack: </b> Angular 8, NodeJS, HTML, JavaScript, JDK 1.8, Spring MVC, Maven3, JUnit5, RESTful Services,
+Postgres, Bean
+Validation, and IBM Gateway API.
+
+### Momentum Metropolitan Holdings Limited
+
+#### Java Developer
+
+- Migrate legacy codebase to new tech stack such as DB2 to MongoDB, SVN to Git, JDBC to Morphia, SQL to NoSQL
+  queries, <br>
+  and JDK 1.6 to JDK 1.7 and JDK 1.8.
+- Provide support during production deployments and monitoring server logs.
+- Present and represent team change requests in Change Advisory Board (CAB) meetings.
+- Perform code reviews to ensure quality code.
+- Develop and optimize automated deployment processes using Maven, Jenkins, JFog Artifactory to store build
+  artifacts. <br>
+  Enhancing pipelines to include Unit, Integration, and Smoke Tests.
+- Build flexible, reusable Service-Oriented Architecture (SOA) & thread-safe web applications using IBM MQ.
+
+#### Key projects:
+
+Tax Services - Service-driven web application that provides an interface layer between legacy and new tax
+distribution <br>
+systems for distributing ad hoc and bulk tax certificates to Momentum’s customer base. Tech stack:  JavaEE, JDK 1.8,
+EJB <br>
+3.0, RESTful, SOAP, Multithreading/Concurrency, Morphia, MongoDB, WebSphere Application Server (WAS 9), and IBM MQ.
+
+### Bayport Financial Services
+
+#### Java Developer | December 2016 - September 2018
+
+- Develop secured RESTful services making use of authentication, authorization (OAuth & JWT), and key encryptions
+  techniques such as Base64.
+- Support and assist QA team with testing in various environments using Selenium Web Driver, Selenium commands and
+  X-Path.
+- Worked closely with the QA team to automate tests and introduction of performance testing using JMeter.
+- Implementing new and enhancing existing features to the front end as well as backend using JSF and Primefaces.
+- Design data models, create tables, triggers, stored procedures, constraints and optimize SQL queries.
+- Work closely with business during support hours, and bug fixes.
+
+### Vaal University of Technology
+
+#### Java Developer | February 2013 - November 2016
+
+#### Key projects:
+
+Student Admission System (SAS) - a rule-based web application integrating with third-party SOAP service to surface <br>
+matric results to process student applications for eligible entry to university programs. The application featured <br>
+automated approvals, and data export into the varsity’s ERP system. Tech stack: JavaEE, Primefaces, JSF, JPA,
+Hibernate, <br>
+EJB 3.0, MySQL, and Glassfish 4.0
+
+
