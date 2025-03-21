@@ -5,13 +5,21 @@ I am a results-driven software engineer with 12 years of experience designing an
 Technical Expertise:
 
 ✅ Java & Backend: Springboot, Quarkus, JavaEE, JDK 1.7, 1.8, 17, 21, 23, JPA, JSF 2.2, EJB 3.0, JSP, JMS, JavaMail, JDBC, JAX-WS, REST & SOAP APIs.
+
 ✅ Databases: Postgre, Liquibase, MongoDB, DB2, MySQL, MSSQL, Oracle 10g.
+
 ✅ ORM: Hibernate, Morphia.
+
 ✅ Frontend & Web Technologies: Angular, PrimeFaces, HTML, JavaScript, Ajax, XML, XHTML, CSS.
+
 ✅ Application Servers: Tomcat, WebSphere (WAS 9), JBOSS/WildFly, Glassfish 4.
-✅ Version Control & CI/CD: Git, Subversion, Maven, Jenkins, Bamboo.
+
+✅ Version Control & CI/CD: Git, Subversion, Maven, Jenkins, Bamboo. Github, Github actions
+
 ✅ Testing & Automation: JUnit (4 & 5), JMeter, Mockito, TestNG.
+
 ✅ Containerization: Docker, kubernetes
+
 ✅ Cloud Technologies: AWS & Azure
 
 I thrive in fast-paced, dynamic environments where problem-solving and innovation drive success. Always open to new challenges and collaborations—let’s connect!
