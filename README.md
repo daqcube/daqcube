@@ -1,8 +1,8 @@
-Software Engineer | Java & Web Application Specialist | 12+ Years in Finance, Insurance & Education
+## Software Engineer | Java & Web Application Specialist | 12+ Years in Finance, Insurance & Education
 
 I am a results-driven software engineer with 12 years of experience designing and building scalable web applications in the finance, insurance, and education sectors. Passionate about leveraging modern Java technologies to develop efficient, high-performance solutions, I specialise in full-stack development, cloud-native architectures, and enterprise-level applications.
 
-Technical Expertise:
+### Technical Expertise:
 
 ✅ Java & Backend: Springboot, Quarkus, JavaEE, JDK 1.7, 1.8, 17, 21, 23, JPA, JSF 2.2, EJB 3.0, JSP, JMS, JavaMail, JDBC, JAX-WS, REST & SOAP APIs.
 
